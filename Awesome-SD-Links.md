@@ -1,0 +1,1 @@
+* [System Design by Karan Pratap Singh](https://github.com/karanpratapsingh/system-design): A comprehensive repository containing a vast collection of resources for learning system design, including articles, blogs, videos, and more.
