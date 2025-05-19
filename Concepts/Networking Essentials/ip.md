@@ -113,5 +113,4 @@ This is how the request passes and reaches the server . Then the response will b
 * **Mac/Linux:** Open **Terminal** and type `ifconfig` or `ip a`. Look for the "inet" address under your active network interface (e.g., "wlan0" for Wi-Fi or "eth0" for Ethernet).
 
 
-## For More Reference 
-[Resources](/Resources/)
+## For More Reference => [Resources](/Resources/)
