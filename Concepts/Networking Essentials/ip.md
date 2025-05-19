@@ -97,7 +97,9 @@ Remote work (connecting to office servers)
 
 **You open YouTube on your phone at home. What happens?**
 
-![IPExample](/System-Design-Journey/ReferenceImages/ip_example.jpg)
+![IPExample](/ReferenceImages/ip_example.jpg)
+
+This is how the request passes and reaches the server . Then the response will be sent back to you in the backward flow.
 
 ---
 
@@ -109,3 +111,7 @@ Remote work (connecting to office servers)
 
 * **Windows:** Open **Command Prompt** and type `ipconfig`. Look for the "IPv4 Address" under your active network adapter (e.g., "Wi-Fi" or "Ethernet").
 * **Mac/Linux:** Open **Terminal** and type `ifconfig` or `ip a`. Look for the "inet" address under your active network interface (e.g., "wlan0" for Wi-Fi or "eth0" for Ethernet).
+
+
+## For More Reference 
+[Resources](/Resources/)
