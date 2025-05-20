@@ -21,6 +21,15 @@ This repository documents my understanding of system design through concise expl
 * Become proficient in discussing trade-offs.
 * Stay updated with system design best practices.
 
+* ## Progress
+
+| Date       | Problems Solved 🔨💪🏼                            | Topics Covered          |
+|------------|--------------------------------------------------|-------------------------|
+|            | ... Zero Day 1 ...                               |                         |
+| 2025-05-18 | Networking essentials                            | IP  , OSI               |
+| ...        | ...                                              | ...                     |
+
+
 ## 🛠️ How to Use This Repository
 
 Feel free to explore the sections. Contributions and suggestions are welcome! If you find errors or have improvements, please open an issue or submit a pull request.
