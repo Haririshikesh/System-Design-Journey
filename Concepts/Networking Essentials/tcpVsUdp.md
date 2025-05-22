@@ -24,6 +24,7 @@ Minor delay is acceptable — **accuracy is critical**.
 
 ---
 
+### TCP Diagram
 
 ## UDP (User Datagram Protocol)
 
@@ -45,3 +46,5 @@ Real-time experience matters more than perfect accuracy.
 **UDP is used** because it’s fast and supports real-time playback.
 
 ---
+
+### UDP Diagram
