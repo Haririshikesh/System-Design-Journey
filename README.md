@@ -26,7 +26,15 @@ This repository documents my understanding of system design through concise expl
 | Date       | Problems Solved 🔨💪🏼                            | Topics Covered          |
 |------------|--------------------------------------------------|-------------------------|
 |            | ... Zero Day 1 ...                               |                         |
-| 2025-05-18 | Networking essentials                            | IP  , OSI               |
+| 2025-05-18 | Networking essentials                            | IP                      |
+|            | ... Day 1 ...                                    |                         |
+| 2025-05-21 | Networking essentials                            | OSI                     |
+|            | ... Day 2 ...                                    |                         |
+| 2025-05-21 | Networking essentials                            | CDN                     |
+|            | ... Day 2 ...                                    |                         |
+| 2025-05-22 | Networking essentials                            | TCP VS UDP              |
+|            | ... Day 3 ...                                    |                         |
+| 2025-05-23 | Security Fundamentals                            | JWT VS OAuth            |
 | ...        | ...                                              | ...                     |
 
 
