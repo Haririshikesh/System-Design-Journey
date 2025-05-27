@@ -35,6 +35,11 @@ This repository documents my understanding of system design through concise expl
 | 2025-05-22 | Networking essentials                            | TCP VS UDP              |
 |            | ... Day 3 ...                                    |                         |
 | 2025-05-23 | Security Fundamentals                            | JWT VS OAuth            |
+|            | ... Day 4, 5, 6 ...                              |                         |
+|            | [Task Manager](https://github.com/Haririshikesh/Task-Manager-Handler-Node)                                     |                         |
+| 2025-05-24 | Practical Implementation of Node -Task Manager   |                         |
+| 2025-05-25 | CORS, PASSPORT, SESSION, COOKIES , JWT           |                         |
+| 2025-05-27 | SEQUELIZE, JEST                                  |                         |
 | ...        | ...                                              | ...                     |
 
 
