@@ -40,6 +40,8 @@ This repository documents my understanding of system design through concise expl
 | 2025-05-24 | Practical Implementation of Node -Task Manager   |                         |
 | 2025-05-25 | CORS, PASSPORT, SESSION, COOKIES , JWT           |                         |
 | 2025-05-27 | SEQUELIZE, JEST                                  |                         |
+|            | ... Day 7 ...                                    |                         |
+| 2025-05-23 | Networking Essentials                            | DNS                     |
 | ...        | ...                                              | ...                     |
 
 
