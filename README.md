@@ -42,6 +42,8 @@ This repository documents my understanding of system design through concise expl
 | 2025-05-27 | SEQUELIZE, JEST                                  |                         |
 |            | ... Day 7 ...                                    |                         |
 | 2025-05-23 | Networking Essentials                            | DNS                     |
+|            | ... Day 8 ...                                    |                         |
+| 2025-05-23 | Networking Essentials                            | LOAD BALANCING          |
 | ...        | ...                                              | ...                     |
 
 
